@@ -1,3 +1,0 @@
-C:/Users/super/CLionProjects/PcWorkSimulator/cmake-build-debug/CMakeFiles/PcWorkSimulator.dir
-C:/Users/super/CLionProjects/PcWorkSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/super/CLionProjects/PcWorkSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
